@@ -1,10 +1,11 @@
-import './App.css'
+import { Container } from "@mui/material"
+import Home from "./components/pages/Home"
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      Greetings, Fello Developers!
-    </div>
+    <Container minwidth={"xl"}>
+      <Home />
+    </Container>
   )
 }
 

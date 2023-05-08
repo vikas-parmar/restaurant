@@ -1,10 +1,11 @@
 # [Restaurant :zap:](https://github.com/vikas-parmar/restaurant/) 
 
 ## Description
-:pushpin: Made with Vite tool. Styled with Material UI.
+ The "Restaurant" app combines the power of React.js, the fast development environment provided by Vite, and the sleek and customizable UI components of Material-UI to create a modern, visually appealing, and user-friendly application that enhances the restaurant's online presence and provides a delightful experience for its customers.
+:pushpin: 
 
 ## Links
-- GitHub: [Weather App](https://github.com/vikas-parmar/restaurant/)
+- GitHub: [ Restaurant ](https://github.com/vikas-parmar/restaurant/)
 
 ## Technologies Used
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

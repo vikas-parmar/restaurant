@@ -5,7 +5,8 @@
 :pushpin: 
 
 ## Links
-- GitHub: [ Restaurant ](https://github.com/vikas-parmar/restaurant/)
+- GitHub: [ Restaurant ](https://github.com/vikas-parmar/restaurant)
+- Visit: [ Restaurant ](https://restaurant-vikas-parmar.vercel.app)
 
 ## Technologies Used
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,7 +18,7 @@
 ![GITHUB BADGE](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 > Package Manager is **NPM** \
-> Used Library is **React** \
+> Used Library is **ReactJS, MUI ** \
 > Used Tool **Vite** \
 > Deployed On **Vercel** 
 

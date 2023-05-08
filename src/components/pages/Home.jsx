@@ -7,6 +7,8 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import main from '../../assets/images/Image.svg';
 import food1 from '../../assets/logos/food1.svg'
 import food2 from '../../assets/logos/food2.svg'
+import smily from '../../assets/images/Mood 1.svg';
+
 
 const Home = () => {
     return (
@@ -18,9 +20,6 @@ const Home = () => {
                 </Typography>
                 <Typography variant='h1' fontWeight='700'>
                     Good Food
-                </Typography>
-                <Typography variant='h1' fontWeight='700'>
-                    Good Mood
                 </Typography>
                 <Box sx={{
                     position: "absolute",
@@ -36,9 +35,21 @@ const Home = () => {
                 }} >
                     <img src={food2} alt='food' />
                 </Box>
-                <Box>
+                <Typography variant='h1' fontWeight='700'>
+                    Good M
+                </Typography>
+                <Stack direction="row" spacing={1} sx={{
+                    position: "absolute",
+                    right: "85px",
+                    top: "173px"
+                    }}>
+                    <img src={smily} alt='smile' />
+                    <img src={smily} alt='smile' />
+                </Stack>
+                <Typography variant='h1' fontWeight='700' position={'absolute'} top="136px" right="25px">
+                    d
+                </Typography>
 
-                </Box>
                 <Typography variant='h6' color={'secondary'} sx={{
                     fontWeight: 450,
                     fontSize: "20px",
